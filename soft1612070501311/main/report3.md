@@ -25,8 +25,8 @@
  
  ## 3.实验结果
  
- ![在手机上运行效果](https://raw.githubusercontent.com/GeekLee1998/android-labs-2018/master/soft1612070501311/main/3First.jpg)
- ![在手机上运行效果2](https://raw.githubusercontent.com/GeekLee1998/android-labs-2018/master/soft1612070501311/main/3Second.png)
+ ![在手机上运行效果](https://raw.githubusercontent.com/GeekLee1998/android-labs-2018/master/soft1612070501311/labpicture/ThirdLab1.png)
+ ![在手机上运行效果2](https://raw.githubusercontent.com/GeekLee1998/android-labs-2018/master/soft1612070501311/labpicture/ThirdLab2.png)
  
  ## 4.实验体会
   
